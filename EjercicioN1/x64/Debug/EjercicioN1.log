@@ -1,0 +1,3 @@
+﻿  EjercicioN1.cpp
+C:\Users\ASUS\source\repos\EjercicioN1\EjercicioN1.cpp(11,22): warning C4101: 'val': variable local sin referencia
+  EjercicioN1.vcxproj -> C:\Users\ASUS\source\repos\EjercicioN1\x64\Debug\EjercicioN1.exe

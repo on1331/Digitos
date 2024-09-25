@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Programacion Avanzada\\EjercicioN1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21D27F9E-B79D-4435-98CE-87194EEF4043}|EjercicioN1.vcxproj|C:\\Users\\ASUS\\Desktop\\Programacion Avanzada\\EjercicioN1\\EjercicioN1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21D27F9E-B79D-4435-98CE-87194EEF4043}|EjercicioN1.vcxproj|solutionrelative:EjercicioN1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D27F9E-B79D-4435-98CE-87194EEF4043}|EjercicioN1.vcxproj|C:\\Users\\ASUS\\Desktop\\Programacion Avanzada\\EjercicioN1\\Digit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21D27F9E-B79D-4435-98CE-87194EEF4043}|EjercicioN1.vcxproj|solutionrelative:Digit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D27F9E-B79D-4435-98CE-87194EEF4043}|EjercicioN1.vcxproj|C:\\Users\\ASUS\\Desktop\\Programacion Avanzada\\EjercicioN1\\Digit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21D27F9E-B79D-4435-98CE-87194EEF4043}|EjercicioN1.vcxproj|solutionrelative:Digit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Digit.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Programacion Avanzada\\EjercicioN1\\Digit.cpp",
+              "RelativeDocumentMoniker": "Digit.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Programacion Avanzada\\EjercicioN1\\Digit.cpp",
+              "RelativeToolTip": "Digit.cpp",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T13:30:24.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Digit.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Programacion Avanzada\\EjercicioN1\\Digit.h",
+              "RelativeDocumentMoniker": "Digit.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Programacion Avanzada\\EjercicioN1\\Digit.h",
+              "RelativeToolTip": "Digit.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-13T13:23:57.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EjercicioN1.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Programacion Avanzada\\EjercicioN1\\EjercicioN1.cpp",
+              "RelativeDocumentMoniker": "EjercicioN1.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Programacion Avanzada\\EjercicioN1\\EjercicioN1.cpp",
+              "RelativeToolTip": "EjercicioN1.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T13:22:26.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
